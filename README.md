@@ -1,4 +1,4 @@
-# -15-Interactive-Visualizations-HW
+# 15-Interactive-Visualizations-HW
 # Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
